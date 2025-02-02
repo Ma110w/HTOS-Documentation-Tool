@@ -1,0 +1,16 @@
+[
+  {
+    "name": "!hello",
+    "title": "(Greet Command)",
+    "description": "Greets the user with a warm welcome message.",
+    "usage": "!hello",
+    "exampleResponse": "Hello there! How can I help you today?"
+  },
+  {
+    "name": "!ban",
+    "title": "(Ban Command)",
+    "description": "Bans a user from the Discord server (requires permissions).",
+    "usage": "!ban @User",
+    "exampleResponse": "@User has been banned from the server."
+  }
+]
