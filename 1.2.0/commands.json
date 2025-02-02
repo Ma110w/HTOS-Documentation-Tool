@@ -15,10 +15,10 @@
     "exampleResponse": "@User has been banned from the server."
   },
   {
-  "name": "!ban",
-  "title": "(Ban Command)",
-  "description": "Bans a user from the server (requires permissions).",
-  "usage": "!ban @User",
-  "exampleResponse": "@User has been banned from the server."
-  }
+  "name": "!stupid",
+  "title": "(stupid Command)",
+  "description": "stupids a user from the server (requires permissions).",
+  "usage": "!stupid @User",
+  "exampleResponse": "@User has been stupidedded from the server."
+ }
 ]
