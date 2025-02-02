@@ -1,10 +1,10 @@
 [
   {
-    "name": "!hello",
-    "title": "(Greet Command)",
-    "description": "Greets the user with a warm welcome message.",
-    "usage": "!hello",
-    "exampleResponse": "Hello there! How can I help you today?",
+    "name": "!satan",
+    "title": "(The hellhound)",
+    "description": "Greets the user with a warm shotgun blast.",
+    "usage": "!satan",
+    "exampleResponse": "im feeling romantical.",
     "videodir": "/helpexample.mp4"
   },
   {
