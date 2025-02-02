@@ -12,5 +12,12 @@
     "description": "Bans a user from the Discord server (requires permissions).",
     "usage": "!ban @User",
     "exampleResponse": "@User has been banned from the server."
+  },
+  {
+    "name": "!cum",
+    "title": "(ambatukum)",
+    "description": "cums on a user from the Discord server (DOESENT requires permissions).",
+    "usage": "!cum @User",
+    "exampleResponse": "@User has been came on from the server."
   }
 ]
